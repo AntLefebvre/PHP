@@ -27,5 +27,5 @@ class Movie
 $movie = new Movie("Mon film ");
 
 echo $movie->getName();
-$movie->setName("Taxi 3");
+$movie->setName("Taxi 2");
 echo $movie->getName();
